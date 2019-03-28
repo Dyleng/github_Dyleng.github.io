@@ -1,14 +1,18 @@
-# 个人博客
+# front cover jekyll theme
 
-这是我的个人博客项目，里面会记录生活和技术的点点滴滴。
-
-
-访问地址：[http://www.ityouknow.com/](http://www.ityouknow.com/)
-
-
-博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
+## Why choose this jekyll theme for your front page?
+* You don't have to modify any HTML, everything can be modified in config.yml.
+* Very lightweight. No Javascript, No Bootstrap etc..
+* MIT licensed.
 
 
-## 我的微信公众号
+## See it in action
+<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
 
-![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
+## Credits
+The background image that was used as an example comes from Tom Hall.
+You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
+It's licensed under Creative-Commons.
+
+This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
+
